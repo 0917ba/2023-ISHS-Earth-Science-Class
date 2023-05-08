@@ -19,8 +19,6 @@ plt.xlabel('time(s)', size=12, loc='center', family='serif')
 plt.ylabel('velocity(m/s)', size=12, loc='center', family='serif')
 plt.title('Velocity of Car', size=20, loc='center', family='serif')
 
-plt.xticks(*font1)
-plt.yticks(*font1)
 
 plt.grid(linestyle='--', linewidth=0.5)
 
